@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Hope"/>
+        <card number="1" name="Makoto Naegi, Ultimate Hope"/>
+        <card number="1" name="Makoto, Ultimate Lucky Student"/>
+        <card number="1" name="Kyoko, Ultimate Detective"/>
+        <card number="1" name="Toko, Ultimate Author"/>
+        <card number="1" name="Junko, Ultimate Fashionista"/>
+        <card number="1" name="Leon, Ultimate Baseball Star"/>
+        <card number="1" name="Hina, Ultimate Swimmer"/>
+        <card number="1" name="Byakuya, Ultimate Heir"/>
+        <card number="1" name="Celeste, Ultimate Gambler"/>
+        <card number="1" name="The End of Chihiro"/>
+        <card number="1" name="Hifumi, Ultimate Doujin Writer"/>
+        <card number="1" name="Hiro, Ultimate Claivoyant"/>
+        <card number="1" name="Mondo, Ultimate Gang Leader"/>
+        <card number="1" name="Sakura, Ultimate Fighter"/>
+        <card number="1" name="Sayaka, Ultimate Idol"/>
+        <card number="1" name="Taka, Ultimate Moral Compass"/>
+        <card number="1" name="Alter Ego"/>
+        <card number="1" name="Booby-Trapped Corpse"/>
+        <card number="1" name="Classified Files"/>
+        <card number="1" name="Dying Message"/>
+        <card number="1" name="Forgotten Notebook"/>
+        <card number="1" name="Sketched Recreation"/>
+        <card number="1" name="Staged Photograph"/>
+        <card number="1" name="Hope's Peak Academy"/>
+        <card number="1" name="Condemn dg"/>
+        <card number="1" name="Day of Destiny dg"/>
+        <card number="1" name="Dispatch dg"/>
+        <card number="1" name="Jin Kirigiri, Principal"/>
+        <card number="1" name="Path to Exile dg"/>
+        <card number="1" name="Search the Premesis dg"/>
+        <card number="1" name="Confirm Suspicions dg"/>
+        <card number="1" name="Mass Appeal dg"/>
+        <card number="1" name="Ongoing Investigation dg"/>
+        <card number="1" name="Trail of Evidence dg"/>
+        <card number="1" name="Languish dg"/>
+        <card number="1" name="Night's Whisper dg"/>
+        <card number="1" name="Unburial Rites dg"/>
+        <card number="1" name="Victimize dg"/>
+        <card number="1" name="Abrade dg"/>
+        <card number="1" name="Friends Forged in Heat"/>
+        <card number="1" name="Cathartic Reunion dg"/>
+        <card number="1" name="Deflecting Swat dg"/>
+        <card number="1" name="Confront the Unknown dg"/>
+        <card number="1" name="Explosive Vegetation dg"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Harrow dg"/>
+        <card number="1" name="Heroic Intervention dg"/>
+        <card number="1" name="Nostalgic Dreams dg"/>
+        <card number="1" name="Time of Need dg"/>
+        <card number="1" name="Arcane Signet dg"/>
+        <card number="1" name="Coat of Arms dg"/>
+        <card number="1" name="Patriar's Seal dg"/>
+        <card number="1" name="Assassin's Trophy dg"/>
+        <card number="1" name="Bring to Light dg"/>
+        <card number="1" name="Kenshiro, Ogre's Beloved"/>
+        <card number="1" name="Circle of Despair dg"/>
+        <card number="1" name="Etchings of the Chosen dg"/>
+        <card number="1" name="March from the Tomb dg"/>
+        <card number="1" name="Supreme Verdict dg"/>
+        <card number="1" name="Terminate dg"/>
+        <card number="1" name="Utter End dg"/>
+        <card number="1" name="Usami, Hope-filled Backup"/>
+        <card number="1" name="Taka's Final Rest"/>
+        <card number="1" name="Sanguine Classroom"/>
+        <card number="1" name="Abandoned Control Room"/>
+        <card number="1" name="Sayaka's Last Stand"/>
+        <card number="1" name="Mana Confluence dg"/>
+        <card number="1" name="Hifumi's Demise"/>
+        <card number="1" name="Sakura's Repose"/>
+        <card number="1" name="Secluded Courtyard dg"/>
+        <card number="1" name="Dilapidated Locker Room"/>
+        <card number="1" name="A/V Room"/>
+        <card number="1" name="Memories of Swim Class"/>
+        <card number="1" name="Memories of Mischief"/>
+        <card number="1" name="Memories of Semesters End"/>
+        <card number="1" name="Memories of Class"/>
+        <card number="1" name="Memories of Track and Field"/>
+        <card number="1" name="Unclaimed Territory dg"/>
+        <card number="1" name="Frozen Morgue"/>
+        <card number="4" name="Plains dg"/>
+        <card number="4" name="Island dg"/>
+        <card number="4" name="Swamp dg"/>
+        <card number="4" name="Mountain dg"/>
+        <card number="4" name="Forest dg"/>
+    </zone>
+</cockatrice_deck>
