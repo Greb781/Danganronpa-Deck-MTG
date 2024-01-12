@@ -3,4 +3,663 @@ Cards were made by PenitentKnight on reddit except the clue token and emblem mad
 Once downloaded go onto cocktrice go to 'Card Database'> Add Custom sets/cards then open Danganronpa Cards.xml. This will add the cards to cocktrice.
 Everyone who wants to see the cards art must do this even if they do not want to play the deck, or they will only see the names of the cards and no art.
 
-Then go to deck editor > Load deck and open Hope's Peak Commander.cod to add the deck list on cocktrice.=
+Then go to deck editor > Load deck and open Hope's Peak Commander.cod to add the deck list on cocktrice.
+
+
+Code for Danganronpa Cards.xml below:
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<sets>
+	<set>
+		<name>[DGR1]</name>
+        <longname>[Danganronpa 1] </longname>
+        <settype>Custom</settype>
+        <releasedate>[Never]</releasedate>
+	</set>
+	<set>
+		<name>[DGRT]</name>
+        <longname>[Danganronpa Token] </longname>
+        <settype>Custom</settype>
+        <releasedate>[Never]</releasedate>
+	</set>
+  </sets>
+<cards>
+	<card>
+        <name>DGR Clue</name>
+        <set picurl="https://i.imgur.com/lPul31U.png">[DGRT]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+		<related>Confront the Unknown dg</related>
+		<related>Search the Premesis dg</related>
+		<related>Trail of Evidence dg</related>
+		<related>Ongoing Investigation dg</related>
+		<related>Confirm Suspicions dg</related>
+		<related>Makoto, Ultimate Lucky Student</related>
+		<related>Kyoko Kirigiri, Ultimate Detective</related>
+	</card>
+	<card>
+        <name>Emblem, Makoto Naegi</name>
+        <set picurl="https://imgur.com/9ZTTeUi.png">[DGRT]</set>
+		<related>Makoto Naegi, Ultimate Hope</related>
+    </card>	
+	<card>
+        <name>Hope's Peak Academy</name>
+        <set picurl="https://i.imgur.com/IfXFRuF.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Night's Whisper dg</name>
+        <set picurl="https://imgur.com/pkr0udM.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>		
+    </card>
+	<card>
+        <name>Patriar's Seal dg</name>
+        <set picurl="https://imgur.com/dbdi2P5.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Plains dg</name>
+        <set picurl="https://imgur.com/mPnSMaj.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Kenshiro, Ogre's Beloved</name>
+        <set picurl="https://imgur.com/RBisMbt.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sanguine Classroom</name>
+        <set picurl="https://imgur.com/j2gujFf.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sakura's Repose</name>
+        <set picurl="https://imgur.com/dTxJtIt.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sayaka, Ultimate Idol</name>
+        <set picurl="https://imgur.com/iAJXfgg.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sketched Recreation</name>
+        <set picurl="https://imgur.com/10K5F73.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Search the Premesis dg</name>
+        <set picurl="https://imgur.com/fqePse6.png">[DGR1]</set>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+		<related>DGR Clue</related>
+    </card>
+	<card>
+        <name>Staged Photograph</name>
+        <set picurl="https://imgur.com/xdJl6Wd.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Swamp dg</name>
+        <set picurl="https://imgur.com/Inpn2cv.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Taka, Ultimate Moral Compass</name>
+        <set picurl="https://imgur.com/8CwDBtP.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Supreme Verdict dg</name>
+        <set picurl="https://imgur.com/HDt2uHC.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sayaka's Last Stand</name>
+        <set picurl="https://imgur.com/0g0IIv9.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Terminate dg</name>
+        <set picurl="https://imgur.com/knDO8WK.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Taka's Final Rest</name>
+        <set picurl="https://imgur.com/MKQ6o6Z.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Time of Need dg</name>
+        <set picurl="https://imgur.com/tmGV1Ct.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Trail of Evidence dg</name>
+        <set picurl="https://imgur.com/er5UkU4.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Toko, Ultimate Author</name>
+        <set picurl="https://imgur.com/X7AMxXW.png">[DGR1]</set>
+		<related>Genocide Jack, Serial Killer</related>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Genocide Jack, Serial Killer</name>
+        <set picurl="https://imgur.com/5b3chaj.png">[DGRT]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+		<token>1</token>
+		<reverse-related>Toko Ultimate Author</reverse-related>
+    </card>
+	<card>
+        <name>Ongoing Investigation dg</name>
+        <set picurl="https://imgur.com/vc1ey6j.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>The End of Chihiro</name>
+        <set picurl="https://imgur.com/gPcBmmP.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Path to Exile dg</name>
+        <set picurl="https://imgur.com/O3t0Wkm.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Nostalgic Dreams dg</name>
+        <set picurl="https://imgur.com/klC2VQo.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Secluded Courtyard dg</name>
+        <set picurl="https://imgur.com/pN1oddx.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>A/V Room</name>
+        <set picurl="https://imgur.com/om8rICX.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Abandoned Control Room</name>
+        <set picurl="https://imgur.com/o3eV7wI.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Abrade dg</name>
+        <set picurl="https://imgur.com/NPc8f5X.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Alter Ego</name>
+        <set picurl="https://imgur.com/v7Chtl0.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+				<type>Artifact Creature</type>
+		</prop>
+    </card>
+	<card>
+        <name>Arcane Signet dg</name>
+        <set picurl="https://imgur.com/35kXbEb.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Assassin's Trophy dg</name>
+        <set picurl="https://imgur.com/Fjajyds.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Booby-Trapped Corpse</name>
+        <set picurl="https://imgur.com/huiRo61.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Bring to Light dg</name>
+        <set picurl="https://imgur.com/PiEtlZ3.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Byakuya, Ultimate Heir</name>
+        <set picurl="https://imgur.com/ronM9WY.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Cathartic Reunion dg</name>
+        <set picurl="https://imgur.com/QjVFyNZ.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Celeste, Ultimate Gambler</name>
+        <set picurl="https://imgur.com/WrX5qgj.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Chihiro, Ultimate Programmer</name>
+        <set picurl="https://imgur.com/QmNqvjF.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Circle of Despair dg</name>
+        <set picurl="https://imgur.com/Li9pszN.png">[DGR1]</set>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Classified Files</name>
+        <set picurl="https://imgur.com/tIlDGmF.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Coat of Arms dg</name>
+        <set picurl="https://imgur.com/qPYnUNN.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Condemn dg</name>
+        <set picurl="https://imgur.com/YwKtPln.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Confirm Suspicions dg</name>
+        <set picurl="https://imgur.com/935wwcz.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+
+	<card>
+        <name>Confront the Unknown dg</name>
+        <set picurl="https://imgur.com/44HF3Qx.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Day of Destiny dg</name>
+        <set picurl="https://imgur.com/VZqK348.png">[DGR1]</set>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Deflecting Swat dg</name>
+        <set picurl="https://imgur.com/Lg0dP9j.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Dilapidated Locker Room</name>
+        <set picurl="https://imgur.com/CJQnCdV.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Dispatch dg</name>
+        <set picurl="https://imgur.com/aPQbMnA.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Dying Message</name>
+        <set picurl="https://imgur.com/kpLs7Kj.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Etchings of the Chosen dg</name>
+        <set picurl="https://imgur.com/YnDO7Lj.png">[DGR1]</set>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Explosive Vegetation dg</name>
+        <set picurl="https://imgur.com/UZWjHX7.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Forest dg</name>
+        <set picurl="https://imgur.com/oPYlNyG.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Forgotten Notebook</name>
+        <set picurl="https://imgur.com/4ZgZx9S.png">[DGR1]</set>
+		<prop>
+                <maintype>Artifact</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Friends Forged in Heat</name>
+        <set picurl="https://imgur.com/2sk8FG2.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Frozen Morgue</name>
+        <set picurl="https://imgur.com/iSUJ9t3.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Heroic Intervention dg</name>
+        <set picurl="https://imgur.com/YgdQiFG.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Hifumi, Ultimate Doujin Writer</name>
+        <set picurl="https://imgur.com/pWo3dD1.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Hifumi's Demise</name>
+        <set picurl="https://imgur.com/CgxTQsB.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Hina, Ultimate Swimmer</name>
+        <set picurl="https://imgur.com/uqXK2tI.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Hiro, Ultimate Claivoyant</name>
+        <set picurl="https://imgur.com/90uh2s5.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Hope</name>
+        <set picurl="https://imgur.com/xIpGKCz.png">[DGR1]</set>
+		<prop>
+                <maintype>Enchantment</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Island dg</name>
+        <set picurl="https://imgur.com/BpK0tue.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Jin Kirigiri, Principal</name>
+        <set picurl="https://imgur.com/q6VvzYO.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Junko, Ultimate Fashionista</name>
+        <set picurl="https://imgur.com/IJFJroi.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Languish dg</name>
+        <set picurl="https://imgur.com/Vy0dIuf.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Leon, Ultimate Baseball Star</name>
+        <set picurl="https://imgur.com/rRZTYA7.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Makoto Naegi, Ultimate Hope</name>
+        <set picurl="https://imgur.com/AAveriX.png">[DGR1]</set>
+		<related>Emblem Clue Exile</related>
+		<prop>
+                <maintype>Planeswalker</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Mana Confluence dg</name>
+        <set picurl="https://imgur.com/4WqAnzK.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>March from the Tomb dg</name>
+        <set picurl="https://imgur.com/temk0ot.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Mass Appeal dg</name>
+        <set picurl="https://imgur.com/BMFOLHj.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Memories of Class</name>
+        <set picurl="https://imgur.com/nMaXK1d.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Memories of Mischief</name>
+        <set picurl="https://imgur.com/lfncX8z.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Memories of Swim Class</name>
+        <set picurl="https://imgur.com/3gy4Frt.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Memories of Track and Field</name>
+        <set picurl="https://imgur.com/uUMTuSD.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Mondo, Ultimate Gang Leader</name>
+        <set picurl="https://imgur.com/gEwsbvv.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Mountain dg</name>
+        <set picurl="https://imgur.com/RQi2N5G.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Unburial Rites dg</name>
+        <set picurl="https://imgur.com/dthdeNq.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Unclaimed Territory dg</name>
+        <set picurl="https://imgur.com/syRSAF9.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Utter End dg</name>
+        <set picurl="https://imgur.com/impuS2T.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Victimize dg</name>
+        <set picurl="https://imgur.com/S9XkJKW.png">[DGR1]</set>
+		<prop>
+                <maintype>Sorcery</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Kyoko, Ultimate Detective</name>
+        <set picurl="https://imgur.com/E6cUxf5.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Memories of Semesters End</name>
+        <set picurl="https://imgur.com/B3w8CPb.png">[DGR1]</set>
+		<prop>
+                <maintype>Land</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Sakura, Ultimate Fighter</name>
+        <set picurl="https://imgur.com/2uAGRa8.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Makoto, Ultimate Lucky Student</name>
+        <set picurl="https://imgur.com/FON17vT.png">[DGR1]</set>
+		<related>DGR Clue</related>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Usami, Hope-filled Backup</name>
+        <set picurl="https://imgur.com/RIOx77l.png">[DGR1]</set>
+		<prop>
+                <maintype>Creature</maintype>
+		</prop>
+    </card>
+	<card>
+        <name>Harrow dg</name>
+        <set picurl="https://imgur.com/k2yInzC.png">[DGR1]</set>
+		<prop>
+                <maintype>Instant</maintype>
+		</prop>
+    </card>
+</cards>
+</cockatrice_carddatabase>	
