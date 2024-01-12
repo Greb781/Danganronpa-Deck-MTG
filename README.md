@@ -6,7 +6,7 @@ Everyone who wants to see the cards art must do this even if they do not want to
 Then go to deck editor > Load deck and open Hope's Peak Commander.cod to add the deck list on cocktrice.
 
 
-Code for Danganronpa Cards.xml below:
+Code for Danganronpa Cards.xml below (Use raw mode so it formats correctly):
 
 
 
